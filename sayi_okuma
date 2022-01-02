@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+
+int main() {
+	int sayi;
+	cout << "Okunmasini istediginiz sayiyi giriniz--->";
+	cin >> sayi;
+	cout << endl;
+	cout << "Okunacak sayi ->>" << sayi << " dir." << endl;
+
+}
